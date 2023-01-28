@@ -1,0 +1,24 @@
+1234
+Apple
+A fruit from trees
+2.59
+
+5678
+Bread
+A baked good made from grains
+2.40
+
+9100
+Water
+Vital for all known forms of life
+1.49
+
+9989
+Orange
+A citrus fruit from a tree
+2.63
+
+1134
+Chocolate
+A candy made from a cacao fruit
+3.00

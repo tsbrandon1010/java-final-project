@@ -1,0 +1,24 @@
+Thomas Brandon
+Item: Apple
+  Price: $2.59
+	Count: 10
+	Subtotal: $23.31
+Item: Bread
+  Price: $2.40
+	Count: 1
+	Subtotal: $2.40
+Item: Water
+  Price: $1.49
+	Count: 2
+	Subtotal: $2.98
+Item: Orange
+  Price: $2.63
+	Count: 0
+	Subtotal: $0.00
+Item: Chocolate
+  Price: $3.00
+	Count: 1
+	Subtotal: $3.00
+
+Your Subtotal is: $31.69
+Your Total is: $33.59
