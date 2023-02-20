@@ -166,7 +166,7 @@ public class PointOfSaleGUI extends JFrame implements ActionListener{
 
         // the catalog/ordering panel that holds the item information, and text box to set the item quantity
         JPanel item1 = new JPanel(new GridLayout(4, 1, 5, 5));
-        ImageIcon appleIcon = new ImageIcon("apple.png");
+        ImageIcon appleIcon = new ImageIcon("icons\\apple.png");
         JLabel appleLabel = new JLabel(appleIcon);
         JLabel item1L1 = new JLabel("Name: " + catalog[0].getName());
         JLabel item1L2 = new JLabel("Description: " + catalog[0].getProductDescription());
@@ -191,7 +191,7 @@ public class PointOfSaleGUI extends JFrame implements ActionListener{
         item1.setBorder(lineBorder);
 
         JPanel item2 = new JPanel(new GridLayout(4, 1, 5, 5));
-        ImageIcon breadIcon = new ImageIcon("bread.png");
+        ImageIcon breadIcon = new ImageIcon("icons\\bread.png");
         JLabel breadLabel = new JLabel(breadIcon);
         JLabel item2L1 = new JLabel("Name: " + catalog[1].getName());
         JLabel item2L2 = new JLabel("Description: " + catalog[1].getProductDescription());
@@ -217,7 +217,7 @@ public class PointOfSaleGUI extends JFrame implements ActionListener{
         item2.setBorder(lineBorder);
 
         JPanel item3 = new JPanel(new GridLayout(4, 1, 5, 5));
-        ImageIcon waterIcon = new ImageIcon("water-bottle.png");
+        ImageIcon waterIcon = new ImageIcon("icons\\water-bottle.png");
         JLabel waterLabel = new JLabel(waterIcon);
         JLabel item3L1 = new JLabel("Name: " + catalog[2].getName());
         JLabel item3L2 = new JLabel("Description: " + catalog[2].getProductDescription());
@@ -243,7 +243,7 @@ public class PointOfSaleGUI extends JFrame implements ActionListener{
         item3.setBorder(lineBorder);
 
         JPanel item4 = new JPanel(new GridLayout(4, 1, 5, 5));
-        ImageIcon orangeIcon = new ImageIcon("orange.png");
+        ImageIcon orangeIcon = new ImageIcon("icons\\orange.png");
         JLabel orangeLabel = new JLabel(orangeIcon);
         JLabel item4L1 = new JLabel("Name: " + catalog[3].getName());
         JLabel item4L2 = new JLabel("Description: " + catalog[3].getProductDescription());
@@ -269,7 +269,7 @@ public class PointOfSaleGUI extends JFrame implements ActionListener{
         item4.setBorder(lineBorder);
 
         JPanel item5 = new JPanel(new GridLayout(4, 1, 5, 5));
-        ImageIcon chocolateIcon = new ImageIcon("chocolate-bar.png");
+        ImageIcon chocolateIcon = new ImageIcon("icons\\chocolate-bar.png");
         JLabel chocolateLabel = new JLabel(chocolateIcon);
         JLabel item5L1 = new JLabel("Name: " + catalog[4].getName());
         JLabel item5L2 = new JLabel("Description: " + catalog[4].getProductDescription());
